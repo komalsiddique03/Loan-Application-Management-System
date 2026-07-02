@@ -60,7 +60,9 @@ Otherwise, the application is marked as **Not Eligible**.
 
 # 👨‍💻 Team Members
 Komal Siddique
+
 Muhammad Faraz
+
 Muhammad Wajid
 
 Semester Project – Loan Eligibility Checking System
